@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @godfrey-ouma
+- 👋 Hi, I’m @godfrey
 - 👀 I’m interested in r and stack programming.
 - 🌱 I’m currently learning stack, and r language
 - 💞️ I’m looking to collaborate on stack, r programming
